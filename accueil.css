@@ -1,0 +1,85 @@
+
+ h1{
+    text-align: center;
+ }
+ .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+ }
+ .card1{
+   width: 30%;
+    background-color: #dbe6f5;
+    padding: 15px;
+    border-radius:8px;
+    text-align: center;
+ }
+  .card-title1 h1{
+   background-color: #3f6fb6;
+ }
+ .card1 img {
+    width: 100%;
+    height: auto;
+ }
+.card2{
+   width: 30%;
+    background-color: #e6f4ec;
+    padding: 15px;
+    border-radius:8px;
+    text-align: center;
+    }
+   .card-title2 h1{
+   background-color: #2e8b57;
+ }
+ .card2 img {
+    width: 100%;
+    height: auto;
+ }
+ .card3{
+   width: 30%;
+    background: color #f1e4f8;;
+    padding: 15px;
+    border-radius:8px;
+    text-align: center;
+    }
+   .card-title3 h1{
+   background-color: #6a1b9a;
+ }
+ .card3 img {
+    width: 100%;
+    height: auto;
+ }
+ .card4{
+   width: 30%;
+    background-color: #fff0e0;
+    padding: 15px;
+    border-radius:8px;
+    text-align: center;
+    }
+   .card-title4 h1{
+   background-color: #ef6c00;
+ }
+ .card4 img {
+    width: 100%;
+    height: auto;
+ }
+ .card5{
+   width: 30%;
+    background-color: #e1f5fe;
+    padding: 15px;
+    border-radius:8px;
+    text-align: center;
+    }
+   .card-title5 h1{
+   background-color: #0288d1;
+ }
+ .card5 img {
+    width: 100%;
+    height: auto;
+ }
+ .title-principal{
+   text-align: center;
+   color: #333;
+   margin-bottom: 30px;
+ }
